@@ -18,7 +18,7 @@ After loading the dataset, the data needed to be cleaned and preprocessed so tha
 
 ## EDA
 After examining the data distributions and analyzing the value counts of the categorical variables, several notable observations were derived from the pivot tables. Here are a few key highlights.<br>
-![Churn Distribution](image_url)<br>
+![Churn Distribution](https://github.com/farhanulf/Project_1/blob/main/Churn%20Distribution.png)<br>
 ![Confusion Matrix](https://github.com/farhanulf/Project_1/blob/main/Confusion%20Matrix.png)
 
 ## Training & Evaluating Models
@@ -31,7 +31,7 @@ I tried three different models:
 
 ## Model Performance
 After training and testing the models, here's the performance report of each models.<br>
-![Comparison Performance Report](image_url)<br>
+![Comparison Performance Report](https://github.com/farhanulf/Project_1/blob/main/Performance%20Report.png)<br>
 
 ## Conclusion
 Based on the performance report, it is evident that using the Random Forest model is the most effective approach to achieve a satisfactory score in predicting customer churn. Our treatment and model provide a high level of confidence, with a 93% accuracy in predicting customer churn correctly. Additionally, out of all the customers predicted to churn, 94% of them are indeed churned (True Positive), while the remaining 6% are not actually churned (False Positive).
