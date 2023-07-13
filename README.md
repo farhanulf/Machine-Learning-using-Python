@@ -19,7 +19,7 @@ After loading the dataset, the data needed to be cleaned and preprocessed so tha
 ## EDA
 After examining the data distributions and analyzing the value counts of the categorical variables, several notable observations were derived from the pivot tables. Here are a few key highlights.<br>
 ![Churn Distribution](image_url)<br>
-![Confusion Matrix](image_url)
+![Confusion Matrix]([image_url](https://github.com/farhanulf/Project_1/blob/main/Confusion%20Matrix.png))
 
 ## Training & Evaluating Models
 To start, I divided the dataset into training and testing sets, using a test size of 20%. The evaluation of the models is based on several metrics, including accuracy, precision, recall, and ROC AUC. To ensure robust and reliable evaluations, I employed cross-validation techniques.
