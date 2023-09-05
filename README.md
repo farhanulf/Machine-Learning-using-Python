@@ -1,5 +1,6 @@
-# Comparing Supervised Learning Performance: Project Overview
-- The project aims to identify the most effective model for predicting the desired outcome. The insights gained from this analysis can guide decision-making and provide valuable recommendations for future applications in similar domains.
+# Customer Churn Prediction: Project Overview
+- The project aims to identify which customer are likely to leave a service.
+- The insights gained from this analysis can guide decision-making and provide valuable recommendations for future applications in similar domains.
 - To ensure robust and reliable evaluations, cross-validation techniques are employed, dividing the data into multiple folds and performing model training and testing across different subsets.
 - Involves a comprehensive analysis of multiple supervised learning models, including Logistic Regression, Decision Tree Classifier, and Random Forest.
 - The project also considers data preprocessing steps, such as handling class imbalance and feature selection, to optimize the models' predictive capabilities.
